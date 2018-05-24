@@ -4,3 +4,6 @@
 [submodule "censys-enumeration"]
 	path = censys-enumeration
 	url = git@github.com:yamakira/censys-enumeration.git
+[submodule "domains-from-csp"]
+	path = domains-from-csp
+	url = git@github.com:yamakira/domains-from-csp.git
