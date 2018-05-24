@@ -1,0 +1,3 @@
+[submodule "the-art-of-subdomain-enumeration"]
+	path = the-art-of-subdomain-enumeration
+	url = git@github.com:appsecco/the-art-of-subdomain-enumeration.git
