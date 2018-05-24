@@ -1,3 +1,6 @@
 [submodule "the-art-of-subdomain-enumeration"]
 	path = the-art-of-subdomain-enumeration
 	url = git@github.com:appsecco/the-art-of-subdomain-enumeration.git
+[submodule "censys-enumeration"]
+	path = censys-enumeration
+	url = git@github.com:yamakira/censys-enumeration.git
