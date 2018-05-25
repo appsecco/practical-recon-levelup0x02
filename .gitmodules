@@ -7,3 +7,6 @@
 [submodule "domains-from-csp"]
 	path = domains-from-csp
 	url = git@github.com:yamakira/domains-from-csp.git
+[submodule "assets-from-spf"]
+	path = assets-from-spf
+	url = git@github.com:yamakira/assets-from-spf.git
