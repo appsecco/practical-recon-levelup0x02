@@ -2,7 +2,7 @@
 
 This repository contains all the material from the talk "Practical recon techniques for bug hunters & pentesters" given at Bugcrowd LevelUp 0x02 virtual conference
 
-All the scripts are maintained as part of different repos and are included in this repo as git submodules so ideally if you want to clone along with the submodules, us the following command
+All the scripts are maintained as part of different repos and are included in this repo as git submodules so ideally if you want to clone along with the submodules, use the following command
 
 
 ```
