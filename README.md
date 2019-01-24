@@ -11,7 +11,7 @@ git clone --recurse-submodules -j8 git@github.com:appsecco/practical-recon-level
 
 ## Slide deck
 
-[![Practical recon techniques for bug hunters & pentesters](imgs/speakerdeck.png)](https://speakerdeck.com/yamakira/practical-recon-techniques-for-bug-hunters-and-pentesters)
+[![Practical recon techniques for bug hunters & pentesters](imgs/speakerdeck.png)](https://speakerdeck.com/0xbharath/practical-recon-techniques-for-bug-hunters-and-pentesters)
 
 ## Talk video
 
