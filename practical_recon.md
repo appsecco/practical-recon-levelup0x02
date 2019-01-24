@@ -223,7 +223,7 @@ curl -L -sd "api_key=API-KEY&q=Organization:\"tesla\"&response_type=3" -X POST h
 **Extracting domains/emails from SSL/TLS certs using censys**
 
 ![censys](imgs/censys.gif) <!-- .element height="60%" width="80%" -->
-<small>https://github.com/yamakira/censys-enumeration</small>
+<small>https://github.com/0xbharath/censys-enumeration</small>
 
 
 ## Content Security Policy(CSP)
@@ -234,7 +234,7 @@ curl -L -sd "api_key=API-KEY&q=Organization:\"tesla\"&response_type=3" -X POST h
 
 **Extract domains from CSP headers**
 ![csp-extract](imgs/csp.gif)
-<small>https://github.com/yamakira/domains-from-csp</small>
+<small>https://github.com/0xbharath/domains-from-csp</small>
 
 
 ![cdn](imgs/cdn.png)
@@ -253,7 +253,7 @@ curl -L -sd "api_key=API-KEY&q=Organization:\"tesla\"&response_type=3" -X POST h
 **Extract net blocks/domains from SPF record**
 
 ![csp-extract](imgs/spf.gif)
-<small>https://github.com/yamakira/assets-from-spf</small>
+<small>https://github.com/0xbharath/assets-from-spf</small>
 
 
 ### Domain enumeration in DNSSEC
@@ -778,4 +778,4 @@ https://appsecco.com/books/subdomain-enumeration/
 
 ### Thanks 
 
-[@yamakira_](http://twitter.com/yamakira_)
+[@0xbharath](http://twitter.com/0xbharath)
